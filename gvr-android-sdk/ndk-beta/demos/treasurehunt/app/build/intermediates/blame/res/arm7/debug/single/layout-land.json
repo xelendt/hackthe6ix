@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/max/Desktop/ht6/gvr-android-sdk/ndk-beta/demos/treasurehunt/app/build/intermediates/res/merged/arm7/debug/layout-land/back_button.xml",
+        "source": "/Users/max/Desktop/ht6/gvr-android-sdk/ndk-beta/demos/treasurehunt/app/build/intermediates/exploded-aar/treasurehunt.libraries/common/unspecified/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/max/Desktop/ht6/gvr-android-sdk/ndk-beta/demos/treasurehunt/app/build/intermediates/res/merged/arm7/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/max/Desktop/ht6/gvr-android-sdk/ndk-beta/demos/treasurehunt/app/build/intermediates/exploded-aar/treasurehunt.libraries/common/unspecified/res/layout-land/ui_layer_with_portrait_support.xml"
+    }
+]

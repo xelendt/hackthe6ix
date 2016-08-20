@@ -1,0 +1,6 @@
+See file:///Users/max/Desktop/ht6/gvr-android-sdk/ndk-beta/demos/treasurehunt/app/build/tmp/compileArmeabi-v7aDebugTreasurehunt_jniSharedLibraryTreasurehunt_jniMainCpp/output.txt for all output for compileArmeabi-v7aDebugTreasurehunt_jniSharedLibraryTreasurehunt_jniMainCpp.
+compiling treasure_hunt_jni.cc successful.
+
+compiling treasure_hunt_renderer.cc successful.
+
+Finished compileArmeabi-v7aDebugTreasurehunt_jniSharedLibraryTreasurehunt_jniMainCpp, see full log file:///Users/max/Desktop/ht6/gvr-android-sdk/ndk-beta/demos/treasurehunt/app/build/tmp/compileArmeabi-v7aDebugTreasurehunt_jniSharedLibraryTreasurehunt_jniMainCpp/output.txt.
